@@ -1,0 +1,18 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Turns 'more' into a daily floor: 100 outreach attempts, 100 minutes of content, 100 minutes of ads work, or $100 spend \u2014 sustained ~100 days before judging.",
+  "keywords": [
+    "100",
+    "kairos",
+    "of",
+    "rule",
+    "small business"
+  ],
+  "license": "MIT",
+  "name": "kairos-rule-of-100",
+  "repository": "https://github.com/baselam88/kairos-rule-of-100-plugin",
+  "version": "0.1.0"
+}
